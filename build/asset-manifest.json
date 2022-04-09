@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f22f08a2.css",
+    "main.js": "/static/js/main.63913a2a.js",
+    "static/js/787.fe51bae3.chunk.js": "/static/js/787.fe51bae3.chunk.js",
+    "static/media/wolverine.jpg": "/static/media/wolverine.5d0a1067856caa6b270b.jpg",
+    "static/media/dr-doom.jpg": "/static/media/dr-doom.57d7e8701f49ba8dff06.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.f149995b5f9ac7d5db03.jpeg",
+    "static/media/thor.jpg": "/static/media/thor.a36db6b14c7a112e2788.jpg",
+    "static/media/galactus.jpg": "/static/media/galactus.c233c31dbc0bfa91d524.jpg",
+    "static/media/spiderman.jpg": "/static/media/spiderman.5a12f6d0596c709a96a8.jpg",
+    "static/media/magneto.jpg": "/static/media/magneto.9fbceeeaeb7b49bb4d90.jpg",
+    "static/media/thanos.jpg": "/static/media/thanos.0b28469b35d56f98a6d7.jpg",
+    "static/media/wonder-woman.jpg": "/static/media/wonder-woman.412c86dae65a1c672630.jpg",
+    "static/media/dr-octopus.jpg": "/static/media/dr-octopus.509e69b6e08db660e13d.jpg",
+    "static/media/black-panther.jpg": "/static/media/black-panther.5267e0d22ca603e2dca3.jpg",
+    "static/media/captain-america.jpg": "/static/media/captain-america.fab2a3d45e565092c030.jpg",
+    "static/media/loki.jpg": "/static/media/loki.acadde3a3ac0bb66a70e.jpg",
+    "static/media/dark-phoenix.jpg": "/static/media/dark-phoenix.1b16beddfef2f22f3c9a.jpg",
+    "static/media/hulk.jpg": "/static/media/hulk.a597bbbab28ff18d3d71.jpg",
+    "static/media/green-goblin.jpg": "/static/media/green-goblin.a67415004ed09da6c51a.jpg",
+    "index.html": "/index.html",
+    "main.f22f08a2.css.map": "/static/css/main.f22f08a2.css.map",
+    "main.63913a2a.js.map": "/static/js/main.63913a2a.js.map",
+    "787.fe51bae3.chunk.js.map": "/static/js/787.fe51bae3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f22f08a2.css",
+    "static/js/main.63913a2a.js"
+  ]
+}
