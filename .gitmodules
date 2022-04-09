@@ -1,0 +1,3 @@
+[submodule "Marvel"]
+	path = Marvel
+	url = git@github.com:UltimateOjo/Marvel.git
