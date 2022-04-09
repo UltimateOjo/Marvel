@@ -1,0 +1,128 @@
+/*.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+* {
+  background-image: url("logo.jpeg");
+  background-size: 100px 100px ;
+}
+
+.App-logo {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo1 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo2 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo3 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo4 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo5 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo6 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo7 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo8 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo9 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo10 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo11 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo12 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo13 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo14 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo15 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
+
+.App-logo16 {
+  margin: 179px 179px;
+  padding: 100px 100px;
+}
