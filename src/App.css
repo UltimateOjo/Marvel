@@ -40,6 +40,9 @@
 * {
   background-image: url("logo.jpeg");
   background-size: 100px 100px ;
+  color:black;
+  font-weight: 900;
+  font-size: 25px;;
 }
 
 .App-logo {
